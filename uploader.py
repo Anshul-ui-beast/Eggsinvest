@@ -11,8 +11,8 @@ import json
 # -------------------------------
 WP_URL = "https://staging.eggsinvest.com/wp-json/wp/v2/property"
 MEDIA_URL = "https://staging.eggsinvest.com/wp-json/wp/v2/media"
-USERNAME = "ANSHULGUPTA"
-APP_PASSWORD = "m1UI cMhA KskC zQal MmyP qyMC"
+USERNAME = ""
+APP_PASSWORD = ""
 
 # CSV files from the scraper
 CSV_FILES = {
